@@ -1,0 +1,1 @@
+# Exaples of tasks done durning AI class 
